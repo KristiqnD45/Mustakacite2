@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LGoXO4rA0/8=",
+  "dgSpecHash": "MRRj2kLGg/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1212-2\\Downloads\\Mustakacite-main\\ASPMustakacite\\ASPMustakacite.csproj",
+  "projectFilePath": "C:\\Mustakacite2\\ASPMustakacite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1212-2\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\1212-2\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
