@@ -1,33 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mustakacite2\\",
+  "WorkspaceRootPath": "C:\\Kristiqn12a\\Mustakacite2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:services\\applicationbuilderextension (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\data\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\data\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\views\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:views\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\mustakacite2\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\data\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\data\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:data\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|c:\\kristiqn12a\\mustakacite2\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7AE54FD-76B0-4208-A90A-1544CDD0FF6A}|ASPMustakacite.csproj|solutionrelative:views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,63 +70,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Mustakacite2\\Data\\Client.cs",
-              "RelativeDocumentMoniker": "Data\\Client.cs",
-              "ToolTip": "C:\\Mustakacite2\\Data\\Client.cs",
-              "RelativeToolTip": "Data\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationBuilderExtension (1).cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationBuilderExtension (1).cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Services\\ApplicationBuilderExtension (1).cs",
+              "RelativeToolTip": "Services\\ApplicationBuilderExtension (1).cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:20:59.642Z",
+              "WhenOpened": "2026-03-18T09:00:26.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Mustakacite2\\Data\\Comment.cs",
-              "RelativeDocumentMoniker": "Data\\Comment.cs",
-              "ToolTip": "C:\\Mustakacite2\\Data\\Comment.cs",
-              "RelativeToolTip": "Data\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwHIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:20:55.243Z",
+              "WhenOpened": "2026-03-18T08:55:42.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Mustakacite2\\Data\\Post.cs",
-              "RelativeDocumentMoniker": "Data\\Post.cs",
-              "ToolTip": "C:\\Mustakacite2\\Data\\Post.cs",
-              "RelativeToolTip": "Data\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:20:50.311Z",
+              "WhenOpened": "2026-03-18T08:53:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:53:08.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PostType.cs",
-              "DocumentMoniker": "C:\\Mustakacite2\\Data\\PostType.cs",
-              "RelativeDocumentMoniker": "Data\\PostType.cs",
-              "ToolTip": "C:\\Mustakacite2\\Data\\PostType.cs",
-              "RelativeToolTip": "Data\\PostType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:20:45.417Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Comments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comments\\Create.cshtml",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Comments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Comments\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:47:47.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Client.cs",
+              "RelativeDocumentMoniker": "Data\\Client.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Client.cs",
+              "RelativeToolTip": "Data\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:20:59.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Comment.cs",
+              "RelativeDocumentMoniker": "Data\\Comment.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Comment.cs",
+              "RelativeToolTip": "Data\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:20:55.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Post.cs",
+              "RelativeDocumentMoniker": "Data\\Post.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Data\\Post.cs",
+              "RelativeToolTip": "Data\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:20:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostType.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Data\\PostType.cs",
+              "RelativeDocumentMoniker": "Data\\PostType.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Data\\PostType.cs",
+              "RelativeToolTip": "Data\\PostType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:20:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Mustakacite2\\Views\\Posts\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Posts\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Posts\\Edit.cshtml",
-              "ToolTip": "C:\\Mustakacite2\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Posts\\Edit.cshtml",
               "RelativeToolTip": "Views\\Posts\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -116,24 +197,24 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Mustakacite2\\Views\\Posts\\Create.cshtml",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Posts\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Posts\\Create.cshtml",
-              "ToolTip": "C:\\Mustakacite2\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Views\\Posts\\Create.cshtml",
               "RelativeToolTip": "Views\\Posts\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-09T10:46:36.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\Mustakacite2\\Controllers\\PostsController.cs",
+              "DocumentMoniker": "C:\\Kristiqn12a\\Mustakacite2\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
-              "ToolTip": "C:\\Mustakacite2\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Kristiqn12a\\Mustakacite2\\Controllers\\PostsController.cs",
               "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwGMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T10:45:24.609Z",
               "EditorCaption": ""

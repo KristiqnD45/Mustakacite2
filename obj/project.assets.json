@@ -9000,11 +9000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mustakacite2\\ASPMustakacite.csproj",
+      "projectUniqueName": "C:\\Kristiqn12a\\Mustakacite2\\ASPMustakacite.csproj",
       "projectName": "ASPMustakacite",
-      "projectPath": "C:\\Mustakacite2\\ASPMustakacite.csproj",
+      "projectPath": "C:\\Kristiqn12a\\Mustakacite2\\ASPMustakacite.csproj",
       "packagesPath": "C:\\Users\\1212-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Mustakacite2\\obj\\",
+      "outputPath": "C:\\Kristiqn12a\\Mustakacite2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
